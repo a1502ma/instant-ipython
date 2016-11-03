@@ -41,6 +41,11 @@ $ heroku open
 
 Password used to protect the notebook from unauthorised access.
 
+### Reference URL
+
+https://github.com/kennethreitz/conda-buildpack
+
+http://wallfloweropen.com/?project=heroku-app-for-convex-optimization
 
 About
 -----
